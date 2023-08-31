@@ -20,7 +20,7 @@ Je suis un passionné de développement web spécialisé en PHP Symfony, et je s
 
 Voici quelques-uns de mes projets notables :
 
-- **Projet 1 :** Application de gestion de tâches en Symfony.
+- **CryptiWiki :** Application de gestion de tâches en Symfony.
 - **Projet 2 :** Site web e-commerce avec intégration de paiement.
 - **Projet 3 :** Plateforme de blogging intuitive avec interface d'administration.
 
