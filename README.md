@@ -1,30 +1,35 @@
-# Astro Starter Kit: Portfolio
+# Bonjour ! Je suis Jules Fert 👋
 
-```
-npm create astro@latest -- --template portfolio
-```
+Je suis un passionné de développement web spécialisé en PHP Symfony, et je suis actuellement à la recherche d'une alternance en développement web dans le cadre de ma préparation à la formation de Concepteur Développeur d'Application.
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/portfolio)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/portfolio)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/portfolio/devcontainer.json)
+## À propos de moi
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+- 🔭 Actuellement en quête d'une alternance passionnante dans le domaine du développement web.
+- 🌱 Spécialisé en PHP Symfony, j'ai une solide expérience dans la création d'applications web robustes et performantes.
+- 💼 J'ai travaillé sur divers projets, allant de petites applications aux systèmes plus complexes, toujours en quête de qualité et de bonnes pratiques.
+- 🎓 En constante soif d'apprendre et de m'améliorer, je suis enthousiaste à l'idée de relever de nouveaux défis et de développer mes compétences.
 
-![portfolio](https://user-images.githubusercontent.com/357379/210779178-a98f0fb7-6b1a-4068-894c-8e1403e26654.jpg)
+## Compétences
 
-## 🧞 Commands
+- 💻 Langages : PHP, HTML, CSS, JavaScript
+- 🛠️ Frameworks : Symfony, Bootstrap
+- 📦 Outils : Git, VS Code, MySQL
+- 🌐 Connaissances en développement frontend et backend
 
-All commands are run from the root of the project, from a terminal:
+## Portfolio
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:3000`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
+Voici quelques-uns de mes projets notables :
 
-## 👀 Want to learn more?
+- **Projet 1 :** Application de gestion de tâches en Symfony.
+- **Projet 2 :** Site web e-commerce avec intégration de paiement.
+- **Projet 3 :** Plateforme de blogging intuitive avec interface d'administration.
 
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+Pour en savoir plus sur ces projets, n'hésitez pas à consulter mon [portfolio complet](lien-vers-votre-portfolio) !
+
+## Contact
+
+📫 Vous pouvez me contacter par e-mail à l'adresse [votre@email.com](mailto:votre@email.com) pour toute opportunité professionnelle.
+
+N'hésitez pas à me suivre sur [LinkedIn](lien-vers-votre-LinkedIn) pour rester informé de mes dernières actualités.
+
+Merci d'avoir pris le temps de consulter mon portfolio !
