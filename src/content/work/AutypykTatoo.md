@@ -10,8 +10,7 @@ tags:
   - Dev
   - Art
 ---
-
-## Présentation générale du site 
+### Présentation générale du site 
 
 > “Le dessin exprime des sentiments bien plus forts que des mots.”
 

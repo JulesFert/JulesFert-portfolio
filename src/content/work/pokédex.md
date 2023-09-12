@@ -6,13 +6,12 @@ img_alt: Site représentant un pokédex
 description: |
   Site internet représentant un pokédex avec un style rétro. La première génération de pokémons est représentée pour le moment. 
 tags:
-  - Design
   - Front-end
   - Symfony
   - Pokémon
 ---
 
-## Présentation générale du site 
+### Présentation générale du site 
 
 > "Ce Pokédex, c'est un coffre au trésor unique au monde, l'écrin de tes rêves les plus précieux !"
 

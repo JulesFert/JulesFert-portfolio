@@ -7,13 +7,12 @@ description: |
   Site de type “wiki” recueillant des informations sur les cryptides, des espèces vivantes dont on suppose l’existence. Par exemple des créatures comme le populaire Monstre du Loch Ness, ou le non moins fameux Yéti.
 
 tags:
-  - Design
   - Back-end
   - Symfony
   - React
 ---
 
-## Présentation générale du site
+### Présentation générale du site
 
 > *La cryptozoologie étudie les traces des monstres de légende : les cryptides.*
 
