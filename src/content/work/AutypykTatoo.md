@@ -4,7 +4,8 @@ publishDate: 2020-03-02 00:00:00
 img: /assets/Butterfly.png
 img_alt: Site vitrine fait pour un artiste. 
 description: |
-  Petit site vitrine en HTML/CSS fait pour exposer les dessins d'un artiste. 
+  Site vitrine en HTML/CSS fait pour exposer les dessins d'un artiste. 
+  [Autipyk Tatoo](autipyktatoo.julesfert-dev.fr)
 tags:
   - Design
   - Dev

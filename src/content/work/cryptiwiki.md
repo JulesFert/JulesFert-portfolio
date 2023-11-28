@@ -5,6 +5,7 @@ img: /assets/cryptiwiki-1.png
 img_alt: Site cryptiwiki
 description: |
   Site de type “wiki” recueillant des informations sur les cryptides, des espèces vivantes dont on suppose l’existence. Par exemple des créatures comme le populaire Monstre du Loch Ness, ou le non moins fameux Yéti.
+  [CryptiWiki](http://cryptiwiki.fr/)
 
 tags:
   - Back-end
