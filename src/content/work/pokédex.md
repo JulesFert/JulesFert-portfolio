@@ -5,7 +5,6 @@ img: /assets/pokédex.png
 img_alt: Site représentant un pokédex
 description: |
   Site internet représentant un pokédex avec un style rétro. La première génération de pokémons est représentée pour le moment. 
-  [Pokédex](pokedex.julesfert-dev.fr)
 tags:
   - Front-end
   - Symfony
@@ -42,3 +41,6 @@ Permettre aux fans de parcourir la première génération de pokémons et avoir 
 
 - Permettre à l'utilisateurs de switcher entre les différentes générations de pokémons. 
 - Mettre au point un comparateur de types de pokémons sur le site. 
+
+### Accéder au site 
+[Pokédex](http://pokedex.julesfert-dev.fr/)

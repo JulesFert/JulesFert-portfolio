@@ -5,7 +5,6 @@ img: /assets/cryptiwiki-1.png
 img_alt: Site cryptiwiki
 description: |
   Site de type “wiki” recueillant des informations sur les cryptides, des espèces vivantes dont on suppose l’existence. Par exemple des créatures comme le populaire Monstre du Loch Ness, ou le non moins fameux Yéti.
-  [CryptiWiki](http://cryptiwiki.fr/)
 
 tags:
   - Back-end
@@ -64,3 +63,6 @@ Ensuite, la sur-couche de **travail participatif** inhérente à ce type de site
 J'ai été, durant ce projet, **référent technique PHP Symfony**. Je m'occupais de la partie back-end du projet avec **Mehdi KEDADOUCHE**. Nous avons mis en place des routes API afin d'alimenter le front en données. Les échanges front-back se faisaient en JSON. 
 
 Nous avons notamment mis en place des routes pour afficher la liste des créatures, une créature par son slug, une créature affcihées au hasard, ainsi que la dernière créature créee. Des routes *edit* et *create* ont étés mises en place pour gérer l'envoi et la réception des data lors de la création ou modification d'un article sur le site. 
+
+### Accéder au site 
+[CryptiWiki](http://cryptiwiki.fr/)
