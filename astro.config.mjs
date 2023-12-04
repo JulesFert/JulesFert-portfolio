@@ -2,6 +2,6 @@ import { defineConfig } from 'astro/config';
 
 // https://astro.build/config
 export default defineConfig({
-    site: 'https://github.com/JulesFert/JulesFert-portfolio',
+    site: 'https://<JulesFert>.github.io',
     base: '/JulesFert-portfolio',
   })
