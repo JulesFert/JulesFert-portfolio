@@ -1,3 +1,4 @@
+<!-- lang: astro -->
 ---
 import type { HTMLAttributes } from 'astro/types';
 import { iconPaths } from './IconPaths';
@@ -17,7 +18,6 @@ if (size) attrs.style = { '--size': size };
 
 const gradientId = 'icon-gradient-' + Math.round(Math.random() * 10e12).toString(36);
 ---
-<!-- lang: astro -->
 
 <svg
 	xmlns="http://www.w3.org/2000/svg"
